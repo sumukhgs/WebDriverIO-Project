@@ -34,7 +34,7 @@ describe("End2End Scenario",async()=>{
         await $("//a[.='India']").click()
         await browser.pause(2000)
         await $("//input[@class='btn btn-success btn-lg']").click()
-        await browser.pause(2000)
+        
 
     })
 })
