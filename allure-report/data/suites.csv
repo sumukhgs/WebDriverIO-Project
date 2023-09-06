@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Sep 01 16:22:41 IST 2023","Fri Sep 01 16:22:56 IST 2023","14876","","Practise login Page","","","","to handle Dropdown",""
+"passed","Fri Sep 01 16:22:41 IST 2023","Fri Sep 01 16:22:56 IST 2023","14811","","Taking ScreenShot","","","","i am taking screenshot",""
+"skipped","Fri Sep 01 16:22:41 IST 2023","Fri Sep 01 16:22:41 IST 2023","1","","Practise login Page","","","","handling popup in the login page",""
+"skipped","Fri Sep 01 16:22:41 IST 2023","Fri Sep 01 16:22:41 IST 2023","2","","Practise login Page","","","","catching multiple elements",""
+"skipped","Fri Sep 01 16:22:41 IST 2023","Fri Sep 01 16:22:41 IST 2023","5","","Practise login Page","","","","Login by entering Valid Credentials",""
+"skipped","Fri Sep 01 16:22:41 IST 2023","Fri Sep 01 16:22:41 IST 2023","2","","Practise login Page","","","","handling radio button",""

@@ -1,0 +1,19 @@
+{
+  "name": "my-new-project",
+  "type": "module",
+  "devDependencies": {
+    "@wdio/allure-reporter": "^8.15.10",
+    "@wdio/cli": "^8.15.6",
+    "@wdio/local-runner": "^8.15.6",
+    "@wdio/mocha-framework": "^8.15.6",
+    "@wdio/spec-reporter": "^8.15.6"
+  },
+  "scripts": {
+    "wdio": "wdio run ./wdio.conf.js",
+    "sample": "npx wdio run ./wdio.conf.js --spec test/specs/Practisefolder/DynamicDropDowns.js"
+  },
+  "dependencies": {
+    "chai": "^4.3.8",
+    "exceljs": "^4.3.0"
+  }
+}
