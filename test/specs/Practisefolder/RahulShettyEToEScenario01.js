@@ -23,7 +23,6 @@ describe("End2End Scenario",async()=>{
             }
         }
         await $("a[class='nav-link btn btn-primary']").click()
-        await browser.pause(2000)
         let Productprices=await $$("//tr/td[4]/strong")
         let totalsum=(await Promise.all(await Productprices.map(async (product)=>parseInt((await product.getText()).split(".")[1].trim())))).reduce((acc,price)=>acc+price,0)
         console.log("****************************"+totalsum)

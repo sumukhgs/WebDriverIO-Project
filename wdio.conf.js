@@ -25,7 +25,8 @@ export const config = {
     //
     specs: [
         //'./test/specs/**/*.js',
-        './test/specs/Practisefolder/RahulShettyEToEScenario01.js'
+        //'./test/specs/Practisefolder/RahulShettyEToEScenario01.js',
+        './test/specs/Practisefolder/RahulShettyPractisepage.js'
    ],
     // Patterns to exclude.
     exclude: [
